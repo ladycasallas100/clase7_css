@@ -1,0 +1,197 @@
+header {
+    position: absolute;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+
+    background: #E6E6E6;
+}
+
+.logo {
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 50%;
+    top: 20.91px;
+    
+}
+
+h1 {
+    position: absolute;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 30.69%;
+    left: 30%;
+
+    font-feature-settings: 'cpsp' on;
+
+    color: #005677;
+    background: #C4C4C4;
+}
+
+.titulo {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+
+    background: #C4C4C4;
+
+}
+
+.datosPersonales {
+
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    left: 0px;
+    top: 376px;
+    background: #C4C4C4;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 134.69%;
+    /* identical to box height, or 17px */
+
+    font-feature-settings: 'cpsp' on;
+
+    color: #005677;
+
+}
+
+.formacionAcademica {
+
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    left: 0px;
+    top: 518px;
+    background: #C4C4C4;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 134.69%;
+    /* identical to box height, or 17px */
+
+    font-feature-settings: 'cpsp' on;
+
+    color: #005677;
+
+}
+
+.experienciaLaboral {
+
+    position: absolute;
+    position: absolute;
+    width: 100%;
+    height: 30px;
+    left: 0px;
+    top: 673px;
+    background: #C4C4C4;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 124.69%;
+
+    /* identical to box height, or 17px */
+
+    font-feature-settings: 'cpsp' on;
+
+    color: #005677;
+
+}
+
+.datos {
+
+    position: absolute;
+    width: 100%;
+    height: 13px;
+    left: 39px;
+    top: 424px;
+
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* identical to box height, or 13px */
+
+
+    color: #000000;
+
+}
+
+.fechas {
+
+    position: absolute;
+    width: 100%;
+    height: 34px;
+    left: 19px;
+    top: 567px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+
+}
+
+.informacion {
+
+    position: absolute;
+    width: 262px;
+    height: 34px;
+    left: 19px;
+    top: 567px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+
+}
+
+.informacion2 {
+
+    position: absolute;
+    width: 353px;
+    height: 34px;
+    left: 19px;
+    top: 722px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 84.69%;
+    /* or 13px */
+
+
+    color: #000000;
+
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    color: #FFFFFF;
+    
+
+    background: #005677;
+
+}
